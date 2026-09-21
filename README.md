@@ -167,8 +167,3 @@ This project includes a ready-to-use `render.yaml` configuration:
 > **MediScan** is designed for educational, research, and diagnostic assistance purposes only. It should not be used as a sole diagnostic tool for clinical decision-making. Always consult a licensed ophthalmologist or healthcare professional for professional diagnosis and medical advice.
 
 ---
-
-## 🤝 Author & Acknowledgments
-
-- **Developer**: Dinesh Samba Siva Rao Pushadapu ([@dineshpushadapu](https://github.com/dineshpushadapu))
-- **Built With**: TensorFlow, Keras, Streamlit, OpenCV, Pillow, PyData Stack.
